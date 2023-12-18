@@ -30,7 +30,7 @@
         transform: translateX(-3rem) skewX(12deg);
         position: relative;
 
-        @include respond(tab-port) {
+        @include respond(phone) {
             transform: translateX(-3rem) skewX(0);
         }
     }

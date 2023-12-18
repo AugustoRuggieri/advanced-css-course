@@ -769,7 +769,7 @@ body {
   transform: translateX(-3rem) skewX(12deg);
   position: relative;
 }
-@media (max-width: 56.25em) {
+@media (max-width: 37.5em) {
   .story__shape {
     transform: translateX(-3rem) skewX(0);
   }
@@ -894,7 +894,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .row {
-    max-width: 50rem;
+    max-width: 80rem;
     padding: 0 3rem;
   }
 }
